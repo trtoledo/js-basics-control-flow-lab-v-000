@@ -34,5 +34,4 @@ function switchOnCharmFromTip(someTip) {
   }
 return result;
 }
-
 // Write your code in this file!
